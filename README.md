@@ -23,6 +23,7 @@ cd Icog
 npm install
 npm run dev
 ## Preview
+## Preview
 
 ### Desktop View
 ![Desktop view of iCog landing page concept](Hero-Img.png)
