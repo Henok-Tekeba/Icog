@@ -26,10 +26,10 @@ npm run dev
 ## Preview
 
 ### Desktop / Hero View
-![Desktop Hero - iCog landing page concept](Hero-Img.png)
+![Hero Image](https://github.com/Henok-Tekeba/Icog/raw/main/Hero-Img.png)
 
 ### Features / Services Section
-![Features and Services section](Features-Img.png)
+![Features Section Image](https://github.com/Henok-Tekeba/Icog/raw/main/Features-Img.png)
 
 ### Footer Section
-![Footer section of iCog concept](Footer-Img.png)
+![Footer Section Image](https://github.com/Henok-Tekeba/Icog/raw/main/Footer-Img.png)
