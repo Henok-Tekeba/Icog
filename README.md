@@ -22,19 +22,14 @@ git clone https://github.com/Henok-Tekeba/Icog.git
 cd Icog
 npm install
 npm run dev
+
 ## Preview
-## Preview
 
-### Desktop View
-![Desktop view of iCog landing page concept](Hero-Img.png)
+### Desktop / Hero View
+![Desktop Hero - iCog landing page concept](Hero-Img.png)
 
-### Key Sections
+### Features / Services Section
+![Features and Services section](Features-Img.png)
 
-**Hero Section**  
-![Hero section](Hero-Img.png)
-
-**Features / Services**  
-![Services section](Features-Img.png)
-
-**Footer**  
-![Footer section](Footer-Img.png)
+### Footer Section
+![Footer section of iCog concept](Footer-Img.png)
