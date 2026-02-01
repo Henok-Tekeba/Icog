@@ -15,14 +15,6 @@ Hoping it could inspire or even be useful for them!
 - Tailwind CSS (for styling)
 - Vite (fast dev/build)
 - Deployed on Vercel
-
-## How to Run Locally
-bash
-git clone https://github.com/Henok-Tekeba/Icog.git
-cd Icog
-npm install
-npm run dev
-
 ## Preview
 
 ### Desktop / Hero View
@@ -33,3 +25,11 @@ npm run dev
 
 ### Footer Section
 ![Footer Section Image](https://github.com/Henok-Tekeba/Icog/raw/main/Footer-Img.png)
+ 
+## How to Run Locally
+```bash
+git clone https://github.com/Henok-Tekeba/Icog.git
+cd Icog
+npm install
+npm run dev
+
