@@ -26,7 +26,7 @@ npm run dev
 ## Preview
 
 ### Desktop / Hero View
-![Hero Image](https://github.com/Henok-Tekeba/Icog/raw/main/Hero-Img.png)
+![Hero Image](https://github.com/Henok-Tekeba/Icog/blob/main/Footer-Img.png)
 
 ### Features / Services Section
 ![Features Section Image](https://github.com/Henok-Tekeba/Icog/raw/main/Features-Img.png)
