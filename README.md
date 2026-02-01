@@ -22,8 +22,7 @@ git clone https://github.com/Henok-Tekeba/Icog.git
 cd Icog
 npm install
 npm run dev
-
-### Preview
+## Preview
 
 ### Desktop View
 ![Desktop view of iCog landing page concept](Hero-Img.png)
@@ -33,7 +32,7 @@ npm run dev
 **Hero Section**  
 ![Hero section](Hero-Img.png)
 
-**Features**  
+**Features / Services**  
 ![Services section](Features-Img.png)
 
 **Footer**  
