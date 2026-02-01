@@ -16,8 +16,8 @@ Hoping it could inspire or even be useful for them!
 - Vite (fast dev/build)
 - Deployed on Vercel
 
-### How to Run Locally
-```bash
+## How to Run Locally
+bash
 git clone https://github.com/Henok-Tekeba/Icog.git
 cd Icog
 npm install
@@ -26,7 +26,7 @@ npm run dev
 ## Preview
 
 ### Desktop / Hero View
-![Hero Image](https://github.com/Henok-Tekeba/Icog/blob/main/Footer-Img.png)
+![Hero Image](https://github.com/Henok-Tekeba/Icog/blob/main/Hero-Img.png)
 
 ### Features / Services Section
 ![Features Section Image](https://github.com/Henok-Tekeba/Icog/raw/main/Features-Img.png)
