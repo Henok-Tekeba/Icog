@@ -1,6 +1,6 @@
 # ICOG Landing Page (Modern Redesign Concept for iCog Labs)
 
-A clean, modern single-page landing site built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.
+A clean, modern single-page landing site built with **React**, **TypeScript**, **Tailwind CSS**.
 
 ### Why this project?
 iCog Labs[](https://icog-labs.com) and iCog[](https://icogacc.com) do amazing AI + education work in Ethiopia, but their sites feel a bit outdated.  
@@ -13,7 +13,6 @@ Hoping it could inspire or even be useful for them!
 ### Tech Stack
 - React + TypeScript
 - Tailwind CSS (for styling)
-- Vite (fast dev/build)
 - Deployed on Vercel
 ## Preview
 
